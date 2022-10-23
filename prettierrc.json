@@ -1,5 +1,5 @@
 {
-  "printWidth": 70,
+  "printWidth": 80,
   "tabWidth": 2,
   "useTabs": false,
   "semi": true,
@@ -10,5 +10,6 @@
   "bracketSameLine": true,
   "htmlWhitespaceSensitivity": "ignore",
   "arrowParens": "avoid",
-  "proseWrap": "always"
+  "proseWrap": "always",
+  "prettier.useTabs": true
 }
